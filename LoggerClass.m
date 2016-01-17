@@ -1,3 +1,9 @@
+// LoggerClass
+// 
+//
+// IDECodeSnippetIdentifier: 1B89A308-4491-40A3-9CDC-3206249647E6
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "Logger manage class based on 'CocoaLumberjack'."
 summary: "Create a SWIFT logger management class based on 'CocoaLumberjack'. Do remember to add '-DDEBUG' and '-DRELEASE' into the 'Project(NOT target)' -> 'Build Settings' -> 'Swift Compiler - Custom Flags'."
